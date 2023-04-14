@@ -1,4 +1,4 @@
-# internet_user_segmentation
-Who is using the internet around the world? How are they accessing it? 
+# Marketing Clusters 
 
-This project could benefit growing companies attempting to expand and understand the way users access their products on the internet.
+In this project, we use marketing data acquired from [Kaggle](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign) to create customer clusters for marketing purposes. 
+
