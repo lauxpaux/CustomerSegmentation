@@ -6,5 +6,5 @@ Customer segmentation is the fundamental basis of recommendations to improve cus
 For this project we are going to use K-Means clustering, with marketing data from kaggle to create customer segmentation clusters.
 
 
-
+### In progress...
 
